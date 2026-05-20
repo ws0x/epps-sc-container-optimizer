@@ -54,8 +54,8 @@ npm run dev
 
 ## 🏗️ Project Roadmap
 
-* [ ] **Core Calculation Engine:** Implement bin-packing algorithms for container dimensioning.
-* [ ] **Input Interface:** Build forms for cargo dimensions and container specifications.
+* [x] **Core Calculation Engine:** Implement bin-packing algorithms for container dimensioning.
+* [x] **Input Interface:** Build forms for cargo dimensions and container specifications.
 * [ ] **Visualization Module:** Integrate a 2D/3D visualizer for load configuration.
 * [ ] **Report Export:** Enable PDF/CSV export of loading manifests.
 
